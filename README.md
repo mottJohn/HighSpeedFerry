@@ -14,4 +14,4 @@ The project developed codes to filter vessel data collected by AIS, and plot dat
 The file defined the boundaries of speed control zone and uses to filter vessels within the zone.
 
 # investigation.py
-The file uses to generate spatial and temperol plots
+The file uses to generate spatial and temporal plots
